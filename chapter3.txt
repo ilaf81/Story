@@ -1,1 +1,1 @@
-This is chapter 3 for the version control module. 
+This is chapter 3 for the version control spaces.
